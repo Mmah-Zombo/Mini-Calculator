@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mini-Calculator/static/css/main.c3103e96.css",
+    "main.js": "/Mini-Calculator/static/js/main.9e2dc216.js",
+    "index.html": "/Mini-Calculator/index.html",
+    "main.c3103e96.css.map": "/Mini-Calculator/static/css/main.c3103e96.css.map",
+    "main.9e2dc216.js.map": "/Mini-Calculator/static/js/main.9e2dc216.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3103e96.css",
+    "static/js/main.9e2dc216.js"
+  ]
+}
